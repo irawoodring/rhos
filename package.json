@@ -1,0 +1,19 @@
+{
+  "name": "rhos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irawoodring/rhos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irawoodring/rhos/issues"
+  },
+  "homepage": "https://github.com/irawoodring/rhos#readme"
+}
